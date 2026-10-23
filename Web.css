@@ -1,0 +1,22 @@
+body{
+	background-image:url('invoice background.avif');
+	background-position:center;
+	margin:auto;
+	text-align:center;
+	font-family:'lemon milk','lemon milk regular';
+}
+
+.div
+{
+	background-image:url('invoice background2.avif');
+	margin:auto;
+	text-align:center;
+	background-position:center:
+}
+
+#table{
+	background-color:white;
+	margin:auto;
+	background-position:center;
+	text-align:center;
+}

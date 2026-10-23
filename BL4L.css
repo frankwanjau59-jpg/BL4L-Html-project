@@ -1,0 +1,18 @@
+p{
+	font-family:'lemon milk','lemon milk bold';
+	text-align:center;
+}
+
+div{
+	margin:'auto';
+	background-image:url('images.jpg');
+}
+
+body{
+	background-image:url('better background - Copy.jpg');
+	background-position:center;
+}
+
+h1{
+	text-align:center;
+}
